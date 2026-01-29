@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👨🏻‍💻 Alisson Margraf
 
-<!--
-**ALISSON-MARGRAF/ALISSON-MARGRAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Engenheiro de Computação`**
 
-Here are some ideas to get you started:
+📍 Paraná, Brasil  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Engenharia de Computação – **UTFPR**  
+Previsão de conclusão: **2027**
+
+💼 **Analista de Sistemas** no Centro Universitário FAG  
+🖨️ **Técnico de Impressoras** na Matrix Impressoras  
+
+---
+
+### 💻 Áreas de Interesse
+
+- ⚙️ Desenvolvimento de Software  
+- 🧠 Engenharia da Computação  
+- 🖥️ Sistemas e Infraestrutura  
+- 🔌 Integração Hardware & Software  
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<p align="center">
+  <img alt="C" title="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+  <img alt="C++" title="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+</p>
