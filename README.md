@@ -8,6 +8,7 @@
 Previsão de conclusão: **2027**
 
 EXPERIENCIA
+
 💼 **Analista de Sistemas** no Centro Universitário FAG  
 🖨️ **Técnico de Impressoras** na Matrix Impressoras  
 
